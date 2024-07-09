@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+      integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+      crossorigin="anonymous"
+    />
+    
+    
+  </head>
+  <body>
+    <!-- Barra de navegacion -->
+
+    <nav id="navbar" class="nav">
+      <ul class="nav-list">
+        <li>
+          <a href="#welcome-section">Presentacion</a>
+        </li>
+        <li>
+          <a href="#projectos">Proyectos</a>
+        </li>
+        <li>
+          <a href="#contacto">Contacto</a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- fin barra -->
+
+    <!-- presentacion -->
+
+    <section id="welcome-section" class="welcome-section">
+      <h1>Soy Lucio Anconetani</h1>
+      <p>Soy desarrollador web</p>
+    </section>
+
+    <!-- Fin presentacion -->
+
+    <!-- Proyectos -->
+
+    <section id="projects" class="projectos-section">
+      <h2 class="projectos-section-header">Estos son algunos de mis proyectos
+      </h2>
+
+      <div class="projectos-grid">
+        <a
+          href="https://codepen.io/freeCodeCamp/full/zNqgVx"
+          target="_blank"
+          class="projecto project-tile"
+        >
+          <img
+            class="projecto-imagen"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaAUhW-KtRxHIMbEDcrA4Loz8Bgc0Gut9vwODer4HvLJ94aJat0uR1hATNXoPq85g7Zf-G2a6E7_6tZP9M8drHrwEDXG5jPJa0muBxkSBHR-M4aq_FYEwdMsY8cdsv5kPvpL26kS-clGSUGtryMp82E91BYJVdfONUxoekvoeiAkOFUNHxt3NlW3nQ_UU/w617-h337/Captura%20de%20pantalla%202024-06-26%20161900.png"
+            alt="project"
+          />
+          <p class="projecto-title">
+            <span class="code">&lt;</span>
+            Documentacion Tecnica
+            <span class="code">&#47;&gt;</span>
+          </p>
+        </a>
+        <a
+          href="https://codepen.io/lucioanc/pen/pomVvoO"
+          target="_blank"
+          class="projecto project-tile"
+        >
+          <img
+            class="projecto-imagen"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT9I0nze67wXAz_A_3U_DPsP7NBTQ7VNpuqvyk9q46gN-Qe3vNMGtLzFDxoYDRFIx-nV2XqR-dYCz-ZhCTwG0T41waphhguysuZZJxi0rsMsrmCz2lGnh4LEhWhiTP8v0ZpErbGsu1Pi7fgHKE3vXxD_s9wrwaSDGqbvA1I3gDzg7cLq9D8wyRnvXkcjc/w584-h384/Captura%20de%20pantalla%202024-06-27%20081759.png"
+            alt="project"
+          />
+          <p class="projecto-title">
+            <span class="code">&lt;</span>
+            Pagina Tributo
+            <span class="code">&#47;&gt;</span>
+          </p>
+        </a>
+        <a
+          href="https://codepen.io/lucioanc/pen/YzbgxEr"
+          target="_blank"
+          class="projecto project-tile"
+        >
+          <img
+            class="projecto-imagen"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEzsFjwZ5GSKl2q6iUDZT69j0bvdHqNnJXyAf9kn5cjr4B6kn99HVQKBtzFfCayqp6Cn1ZBFzMOauWZdKt82I_DnBRYoZacuz9n4Ezc1w14p_FIBDObl6c_86UPIfYrhwSJEeHx1pWORnzWRNbrO4P1hLXCLeMwuBACSGnHw4bkmrHZUlCxZNoPQYl40M/w470-h439/Captura%20de%20pantalla%202024-06-27%20081904.png"
+            alt="project"
+          />
+          <p class="projecto-title">
+            <span class="code">&lt;</span>
+            Noria Animacion
+            <span class="code">&#47;&gt;</span>
+          </p>
+        </a>
+        <a
+          href="https://codepen.io/lucioanc/pen/QWRPBxM"
+          target="_blank"
+          class="projecto project-tile"
+        >
+          <img
+            class="projecto-imagen"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjECE-L9EazlQEUM7QU9Gj0fib9Mtjl_FBXCEhDrzHT-GnvDpSFwaU6AiQHwtQfgfp3HtvhMT-DVHC3Dt1aDnt6zQDAMyf-M0WlKGIaZr_XnD1VCHgpnSWchKrZqE7SQ51RdF4fqbA_UAPyChFHmJ3PdHA4XTF5Wm0h70c2VN6wIV-jX3_gGXvcmDRLjOY/w708-h467/Captura%20de%20pantalla%202024-06-27%20082315.png"
+            alt="project"
+          />
+          <p class="projecto-title">
+            <span class="code">&lt;</span>
+            Pagina Revista
+            <span class="code">&#47;&gt;</span>
+          </p>
+        </a>
+        
+      </div>
+
+      
+    </section>
+
+    <!-- Fin proyectos -->
+
+    <!-- Contacto -->
+
+    <section id="contacto" class="contacto-section">
+      <div class="contact-section-header">
+        <h2>Vamos a trabajar juntos...</h2>
+        
+      </div>
+      <div class="contacto-links">
+        
+        <a
+          id="profile-link"
+          href="https://github.com/LucioAnc"
+          target="_blank"
+          class="boton contacto-details">
+        <i class="fab fa-github"></i> GitHub</a>
+        
+        <a href="luciopic23@hotmail.com" class="boton contacto-details">
+        <i class="fas fa-at"></i>Mail</a>
+
+        <a href="tel:+5492302618316" class="boton contacto-details">
+        <i class="fas fa-mobile-alt"></i> Charlemos</a>
+
+      </div>
+    </section>
+
+    <!--fin contacto-->
+
+    
+
+    
+  </body>
+</html>
